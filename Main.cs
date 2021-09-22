@@ -19,7 +19,7 @@ class ArithmeticX
 	}
 }
 
-class Demo
+class main
 {
 	public static void Main(string[] args)
 	{
